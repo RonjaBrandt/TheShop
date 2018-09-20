@@ -14,7 +14,7 @@ public class Goods {
         this.description = description;
     }
 
-    public void showInfo(){
+    public void showInformation(){
         System.out.println("Name:"+ name + "."
         +"\nPrice: "+ price + " kr."
         +"\nDescription: "+ description+ ".");
